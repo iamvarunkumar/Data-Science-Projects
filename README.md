@@ -1,1 +1,4 @@
-# Data Science Projects
+- 👋 Hi, I’m @iamvarunkumar
+- 👀 I’m interested in Machine learning, Deep Learning and Artificial intelligence
+- 🌱 I’m currently learning Neural Networks
+- 📫 How to reach me - Instagram - @iamvarunkumar
